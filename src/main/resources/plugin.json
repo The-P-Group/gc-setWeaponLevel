@@ -1,0 +1,12 @@
+{
+  "name": "setWeaponLevel",
+  "description": "Set current character weapon level",
+  "version": "0.1.0-dev",
+  "authors": [ "phuchptty" ],
+
+  "mainClass": "me.lucasdang.grasscutter.setWeaponLevel",
+
+  "comments": [
+    "Don't bug test this because it will break"
+  ]
+}
